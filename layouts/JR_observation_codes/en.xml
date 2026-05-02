@@ -23,155 +23,155 @@
         </layout>
 	<layout name="1">
 		<row>
-			<button type="picture" label="11" />
-			<button type="picture" label="12" />
-			<button type="picture" label="13" />
+			<button type="tag" label="11" />
+			<button type="tag" label="12" />
+			<button type="tag" label="13" />
 		</row>
 		<row>
-			<button type="picture" label="14" />
-			<button type="picture" label="15" />
-			<button type="picture" label="16" />
+			<button type="tag" label="14" />
+			<button type="tag" label="15" />
+			<button type="tag" label="16" />
 		</row>
 		<row>
-			<button type="picture" label="17" />
-			<button type="picture" label="18" />
-			<button type="picture" label="19" />
+			<button type="tag" label="17" />
+			<button type="tag" label="18" />
+			<button type="tag" label="19" />
 		</row>
         </layout>
 	<layout name="2">
 		<row>
-			<button type="picture" label="21" />
-			<button type="picture" label="22" />
-			<button type="picture" label="23" />
+			<button type="tag" label="21" />
+			<button type="tag" label="22" />
+			<button type="tag" label="23" />
 		</row>
 		<row>
-			<button type="picture" label="24" />
-			<button type="picture" label="25" />
-			<button type="picture" label="26" />
+			<button type="tag" label="24" />
+			<button type="tag" label="25" />
+			<button type="tag" label="26" />
 		</row>
 		<row>
-			<button type="picture" label="27" />
-			<button type="picture" label="28" />
-			<button type="picture" label="29" />
+			<button type="tag" label="27" />
+			<button type="tag" label="28" />
+			<button type="tag" label="29" />
 		</row>
         </layout>
 			<layout name="3">
 		<row>
-			<button type="picture" label="31" />
-			<button type="picture" label="32" />
-			<button type="picture" label="33" />
+			<button type="tag" label="31" />
+			<button type="tag" label="32" />
+			<button type="tag" label="33" />
 		</row>
 		<row>
-			<button type="picture" label="34" />
-			<button type="picture" label="35" />
-			<button type="picture" label="36" />
+			<button type="tag" label="34" />
+			<button type="tag" label="35" />
+			<button type="tag" label="36" />
 		</row>
 		<row>
-			<button type="picture" label="37" />
-			<button type="picture" label="38" />
-			<button type="picture" label="39" />
+			<button type="tag" label="37" />
+			<button type="tag" label="38" />
+			<button type="tag" label="39" />
 		</row>
         </layout>
         	<layout name="4">
 		<row>
-			<button type="picture" label="41" />
-			<button type="picture" label="42" />
-			<button type="picture" label="43" />
+			<button type="tag" label="41" />
+			<button type="tag" label="42" />
+			<button type="tag" label="43" />
 		</row>
 		<row>
-			<button type="picture" label="44" />
-			<button type="picture" label="45" />
-			<button type="picture" label="46" />
+			<button type="tag" label="44" />
+			<button type="tag" label="45" />
+			<button type="tag" label="46" />
 		</row>
 		<row>
-			<button type="picture" label="47" />
-			<button type="picture" label="48" />
-			<button type="picture" label="49" />
+			<button type="tag" label="47" />
+			<button type="tag" label="48" />
+			<button type="tag" label="49" />
 		</row>
         </layout>
         	<layout name="5">
 		<row>
-			<button type="picture" label="51" />
-			<button type="picture" label="52" />
-			<button type="picture" label="53" />
+			<button type="tag" label="51" />
+			<button type="tag" label="52" />
+			<button type="tag" label="53" />
 		</row>
 		<row>
-			<button type="picture" label="54" />
-			<button type="picture" label="55" />
-			<button type="picture" label="56" />
+			<button type="tag" label="54" />
+			<button type="tag" label="55" />
+			<button type="tag" label="56" />
 		</row>
 		<row>
-			<button type="picture" label="57" />
-			<button type="picture" label="58" />
-			<button type="picture" label="59" />
+			<button type="tag" label="57" />
+			<button type="tag" label="58" />
+			<button type="tag" label="59" />
 		</row>
         </layout>
         	<layout name="6">
 		<row>
-			<button type="picture" label="61" />
-			<button type="picture" label="62" />
-			<button type="picture" label="63" />
+			<button type="tag" label="61" />
+			<button type="tag" label="62" />
+			<button type="tag" label="63" />
 		</row>
 		<row>
-			<button type="picture" label="64" />
-			<button type="picture" label="65" />
-			<button type="picture" label="66" />
+			<button type="tag" label="64" />
+			<button type="tag" label="65" />
+			<button type="tag" label="66" />
 		</row>
 		<row>
-			<button type="picture" label="67" />
-			<button type="picture" label="68" />
-			<button type="picture" label="69" />
+			<button type="tag" label="67" />
+			<button type="tag" label="68" />
+			<button type="tag" label="69" />
 		</row>
         </layout>
         	<layout name="7">
 		<row>
-			<button type="picture" label="71" />
-			<button type="picture" label="72" />
-			<button type="picture" label="73" />
+			<button type="tag" label="71" />
+			<button type="tag" label="72" />
+			<button type="tag" label="73" />
 		</row>
 		<row>
-			<button type="picture" label="74" />
-			<button type="picture" label="75" />
-			<button type="picture" label="76" />
+			<button type="tag" label="74" />
+			<button type="tag" label="75" />
+			<button type="tag" label="76" />
 		</row>
 		<row>
-			<button type="picture" label="77" />
-			<button type="picture" label="78" />
-			<button type="picture" label="79" />
+			<button type="tag" label="77" />
+			<button type="tag" label="78" />
+			<button type="tag" label="79" />
 		</row>
         </layout>
         	<layout name="8">
 		<row>
-			<button type="picture" label="81" />
-			<button type="picture" label="82" />
-			<button type="picture" label="83" />
+			<button type="tag" label="81" />
+			<button type="tag" label="82" />
+			<button type="tag" label="83" />
 		</row>
 		<row>
-			<button type="picture" label="84" />
-			<button type="picture" label="85" />
-			<button type="picture" label="86" />
+			<button type="tag" label="84" />
+			<button type="tag" label="85" />
+			<button type="tag" label="86" />
 		</row>
 		<row>
-			<button type="picture" label="87" />
-			<button type="picture" label="88" />
-			<button type="picture" label="89" />
+			<button type="tag" label="87" />
+			<button type="tag" label="88" />
+			<button type="tag" label="89" />
 		</row>
         </layout>
         	<layout name="9">
 		<row>
-			<button type="picture" label="91" />
-			<button type="picture" label="92" />
-			<button type="picture" label="93" />
+			<button type="tag" label="91" />
+			<button type="tag" label="92" />
+			<button type="tag" label="93" />
 		</row>
 		<row>
-			<button type="picture" label="94" />
-			<button type="picture" label="95" />
-			<button type="picture" label="96" />
+			<button type="tag" label="94" />
+			<button type="tag" label="95" />
+			<button type="tag" label="96" />
 		</row>
 		<row>
-			<button type="picture" label="97" />
-			<button type="picture" label="98" />
-			<button type="picture" label="99" />
+			<button type="tag" label="97" />
+			<button type="tag" label="98" />
+			<button type="tag" label="99" />
 		</row>
         </layout>
 </layouts>
