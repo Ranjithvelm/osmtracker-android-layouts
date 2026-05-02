@@ -1,0 +1,177 @@
+<layouts>
+        <layout name="root">
+		<row>
+			<button type="picture" icon="logo_camera"/>
+			<button type="textnote" icon="logo_textnote"/>
+			<button type="voicerec" icon="logo_voice"/>
+		</row>
+		<row>
+			<button type="page" label="1" targetlayout="1"/>
+      <button type="page" label="2" targetlayout="2"/>
+      <button type="page" label="3" targetlayout="3"/>
+    </row>
+    <row>
+      <button type="page" label="4" targetlayout="4"/>
+      <button type="page" label="5" targetlayout="5"/>
+      <button type="page" label="6" targetlayout="6"/>
+    </row>
+    <row>
+      <button type="page" label="7" targetlayout="7"/>
+      <button type="page" label="8" targetlayout="8"/>
+      <button type="page" label="9" targetlayout="9"/>
+		</row>
+        </layout>
+	<layout name="1">
+		<row>
+			<button type="picture" label="11" />
+			<button type="picture" label="12" />
+			<button type="picture" label="13" />
+		</row>
+		<row>
+			<button type="picture" label="14" />
+			<button type="picture" label="15" />
+			<button type="picture" label="16" />
+		</row>
+		<row>
+			<button type="picture" label="17" />
+			<button type="picture" label="18" />
+			<button type="picture" label="19" />
+		</row>
+        </layout>
+	<layout name="2">
+		<row>
+			<button type="picture" label="21" />
+			<button type="picture" label="22" />
+			<button type="picture" label="23" />
+		</row>
+		<row>
+			<button type="picture" label="24" />
+			<button type="picture" label="25" />
+			<button type="picture" label="26" />
+		</row>
+		<row>
+			<button type="picture" label="27" />
+			<button type="picture" label="28" />
+			<button type="picture" label="29" />
+		</row>
+        </layout>
+			<layout name="3">
+		<row>
+			<button type="picture" label="31" />
+			<button type="picture" label="32" />
+			<button type="picture" label="33" />
+		</row>
+		<row>
+			<button type="picture" label="34" />
+			<button type="picture" label="35" />
+			<button type="picture" label="36" />
+		</row>
+		<row>
+			<button type="picture" label="37" />
+			<button type="picture" label="38" />
+			<button type="picture" label="39" />
+		</row>
+        </layout>
+        	<layout name="4">
+		<row>
+			<button type="picture" label="41" />
+			<button type="picture" label="42" />
+			<button type="picture" label="43" />
+		</row>
+		<row>
+			<button type="picture" label="44" />
+			<button type="picture" label="45" />
+			<button type="picture" label="46" />
+		</row>
+		<row>
+			<button type="picture" label="47" />
+			<button type="picture" label="48" />
+			<button type="picture" label="49" />
+		</row>
+        </layout>
+        	<layout name="5">
+		<row>
+			<button type="picture" label="51" />
+			<button type="picture" label="52" />
+			<button type="picture" label="53" />
+		</row>
+		<row>
+			<button type="picture" label="54" />
+			<button type="picture" label="55" />
+			<button type="picture" label="56" />
+		</row>
+		<row>
+			<button type="picture" label="57" />
+			<button type="picture" label="58" />
+			<button type="picture" label="59" />
+		</row>
+        </layout>
+        	<layout name="6">
+		<row>
+			<button type="picture" label="61" />
+			<button type="picture" label="62" />
+			<button type="picture" label="63" />
+		</row>
+		<row>
+			<button type="picture" label="64" />
+			<button type="picture" label="65" />
+			<button type="picture" label="66" />
+		</row>
+		<row>
+			<button type="picture" label="67" />
+			<button type="picture" label="68" />
+			<button type="picture" label="69" />
+		</row>
+        </layout>
+        	<layout name="7">
+		<row>
+			<button type="picture" label="71" />
+			<button type="picture" label="72" />
+			<button type="picture" label="73" />
+		</row>
+		<row>
+			<button type="picture" label="74" />
+			<button type="picture" label="75" />
+			<button type="picture" label="76" />
+		</row>
+		<row>
+			<button type="picture" label="77" />
+			<button type="picture" label="78" />
+			<button type="picture" label="79" />
+		</row>
+        </layout>
+        	<layout name="8">
+		<row>
+			<button type="picture" label="81" />
+			<button type="picture" label="82" />
+			<button type="picture" label="83" />
+		</row>
+		<row>
+			<button type="picture" label="84" />
+			<button type="picture" label="85" />
+			<button type="picture" label="86" />
+		</row>
+		<row>
+			<button type="picture" label="87" />
+			<button type="picture" label="88" />
+			<button type="picture" label="89" />
+		</row>
+        </layout>
+        	<layout name="9">
+		<row>
+			<button type="picture" label="91" />
+			<button type="picture" label="92" />
+			<button type="picture" label="93" />
+		</row>
+		<row>
+			<button type="picture" label="94" />
+			<button type="picture" label="95" />
+			<button type="picture" label="96" />
+		</row>
+		<row>
+			<button type="picture" label="97" />
+			<button type="picture" label="98" />
+			<button type="picture" label="99" />
+		</row>
+        </layout>
+</layouts>
