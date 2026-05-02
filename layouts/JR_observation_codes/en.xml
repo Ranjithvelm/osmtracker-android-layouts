@@ -3,7 +3,7 @@
 		<row>
 			<button type="picture" icon="logo_camera"/>
 			<button type="textnote" icon="logo_textnote"/>
-			<button type="voicerec" icon="logo_voice"/>
+			<button type="page" label="0" targetlayout="0"/>
 		</row>
 		<row>
 			<button type="page" label="1" targetlayout="1"/>
@@ -20,7 +20,25 @@
       <button type="page" label="8" targetlayout="8"/>
       <button type="page" label="9" targetlayout="9"/>
 		</row>
+  </layout>
+	<layout name="0">
+		<row>
+			<button type="tag" label="10" />
+			<button type="tag" label="20" />
+			<button type="tag" label="30" />
+		</row>
+		<row>
+			<button type="tag" label="40" />
+			<button type="tag" label="50" />
+			<button type="tag" label="60" />
+		</row>
+		<row>
+			<button type="tag" label="70" />
+			<button type="tag" label="80" />
+			<button type="tag" label="90" />
+		</row>
         </layout>
+
 	<layout name="1">
 		<row>
 			<button type="tag" label="11" />
